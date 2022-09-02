@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543082400 source:e:\gameproj\main.cpp
+	<iostream>
+	"tablica.h"
+
+1542494718 e:\gameproj\tablica.h
+
+1542495326 source:e:\gameproj\tablica.cpp
+	<iostream>
+	"tablica.h"
+	"time.h"
+	"stdlib.h"
+
